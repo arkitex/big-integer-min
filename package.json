@@ -24,7 +24,7 @@
 		"number"
 	],
 	"dependencies": {
-		"just-next-tick": "^0.0.0"
+		"just-next-tick": "^2.0.0"
 	},
 	"devDependencies": {
 		"jscs": "^2.1.0",
