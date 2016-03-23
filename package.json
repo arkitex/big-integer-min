@@ -24,7 +24,7 @@
 		"number"
 	],
 	"dependencies": {
-		"just-next-tick": "^2.0.0"
+		"just-next-tick": "https://github.com/azer/go.git"
 	},
 	"devDependencies": {
 		"jscs": "^2.1.0",
